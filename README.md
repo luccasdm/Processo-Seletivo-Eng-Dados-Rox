@@ -12,7 +12,7 @@ A modelagem conceitual de dados encontra-se no arquivo "modelo-conceitual.jpg" e
 O fluxograma do processo criado para o projeto estão no arquivo "infra-necessaria.jpg" e também conforme abaixo:
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/38978227/160310329-1340f66f-0c0f-48f5-b44d-481a5ecc3665.jpg">
+<img src="https://user-images.githubusercontent.com/38978227/160310641-af1b030f-95d0-4260-aac7-ff1e19e3209b.jpg">
 </div>
 
 ## Sobre a escolha da arquitetura e plataforma de cloud
