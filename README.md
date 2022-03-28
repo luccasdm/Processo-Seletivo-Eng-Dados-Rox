@@ -2,15 +2,18 @@
 Projeto criado para participação do processo seletivo.
 
 ## Modelagem Conceitual de Dados
-A modelagem conceitual de dados encontra-se no arquivo "modelo-conceitual" e também conforme abaixo:
+A modelagem conceitual de dados encontra-se no arquivo "modelo-conceitual.jpg" e também conforme abaixo:
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/38978227/160310329-1340f66f-0c0f-48f5-b44d-481a5ecc3665.jpg">
 </div>
-![modelo-conceitual](https://user-images.githubusercontent.com/38978227/160310329-1340f66f-0c0f-48f5-b44d-481a5ecc3665.jpg)
 
-## Modelagem do Processo de Ingestão de Dados
-O fluxograma do processo e arquitetura criados para o projeto estão no arquivo "Modelagem do Processo de Ingestão de Dados -  RoxPartner.png"
+## Infraestrutura Necessária para Ingestão dos Dados
+O fluxograma do processo criado para o projeto estão no arquivo "infra-necessaria.jpg" e também conforme abaixo:
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/38978227/160310329-1340f66f-0c0f-48f5-b44d-481a5ecc3665.jpg">
+</div>
 
 ## Sobre a escolha da arquitetura e plataforma de cloud
   Levando em consideração o documento inicial que foi passado existiam inúmeras possibilidades de resolver esse problema. Algumas mais simples e menos automatizadas, outras totalmente automatizadas, porém muito mais complexas.
