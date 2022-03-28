@@ -21,7 +21,4 @@ Optei pela utilização da Google Cloud Plataform (GCP), pois é a que tive mair
   <br /> 1 - Cloud Storage : Foi criado um bucket para o armazenamento dos arquivos CSV;
   <br /> 2 - Cloud Functions : Criado uma função que tem como gatilho qualquer inclusão ou alteração de arquivo no bucket criado anteriormente. Essa função é responsável por ler os dados do arquivo adicionado/alterado, trata-los e inseri-los no conjunto de dados do BigQuery.
   <br /> 3 - BigQuery : Criado um conjunto de dados que será responsável por armazenar e consultar os dados contidos nos arquivos CSV.
-<br />
-Agradeço a oportunidade.
-<br />
-Luccas Del Mastro Garcia
+
