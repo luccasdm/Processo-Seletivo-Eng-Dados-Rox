@@ -2,9 +2,11 @@
 Projeto criado para participação do processo seletivo.
 
 ## Modelagem Conceitual de Dados
-A modelagem conceitual de dados encontra-se no arquivo "Modelagem Conceitual de Dados - RoxPartner.png"
+A modelagem conceitual de dados encontra-se no arquivo "modelo-conceitual" e também conforme abaixo:
 
-![alt text](luccasdm/Processo-Seletivo-Eng-Dados-Rox/modelo-conceitual.jpg)
+<div align="center">
+<img src="https://github.com/luccasdm/Processo-Seletivo-Eng-Dados-Rox/issues/1#issue-1182741038">
+</div>
 
 ## Modelagem do Processo de Ingestão de Dados
 O fluxograma do processo e arquitetura criados para o projeto estão no arquivo "Modelagem do Processo de Ingestão de Dados -  RoxPartner.png"
