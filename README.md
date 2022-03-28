@@ -5,7 +5,7 @@ Projeto criado para participação do processo seletivo.
 A modelagem conceitual de dados encontra-se no arquivo "modelo-conceitual" e também conforme abaixo:
 
 <div align="center">
-<img src="https://github.com/luccasdm/Processo-Seletivo-Eng-Dados-Rox/issues/1#issue-1182741038">
+<img src="![modelo-conceitual](https://user-images.githubusercontent.com/38978227/160310329-1340f66f-0c0f-48f5-b44d-481a5ecc3665.jpg)">
 </div>
 
 ## Modelagem do Processo de Ingestão de Dados
