@@ -5,8 +5,9 @@ Projeto criado para participação do processo seletivo.
 A modelagem conceitual de dados encontra-se no arquivo "modelo-conceitual" e também conforme abaixo:
 
 <div align="center">
-<img src="![modelo-conceitual](https://user-images.githubusercontent.com/38978227/160310329-1340f66f-0c0f-48f5-b44d-481a5ecc3665.jpg)">
+<img src="https://user-images.githubusercontent.com/38978227/160310329-1340f66f-0c0f-48f5-b44d-481a5ecc3665.jpg">
 </div>
+![modelo-conceitual](https://user-images.githubusercontent.com/38978227/160310329-1340f66f-0c0f-48f5-b44d-481a5ecc3665.jpg)
 
 ## Modelagem do Processo de Ingestão de Dados
 O fluxograma do processo e arquitetura criados para o projeto estão no arquivo "Modelagem do Processo de Ingestão de Dados -  RoxPartner.png"
